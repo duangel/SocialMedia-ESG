@@ -1,6 +1,4 @@
-# SocialMedia-ESG
-
-PAPER ABSTRACT
+# Abstract
 
 Social media has given the masses the ability to comment, at their fingertips, on a
 company’s products, conduct, and environmental footprint within seconds. Understanding
